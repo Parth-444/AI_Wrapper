@@ -57,7 +57,7 @@ llm-wrapper/
 ```
 ## 🔥 Future Enhancements
 
-Add support for more LLMs (GPT-4, Claude, Mistral, etc.).
+Add support for more LLMs.
 
 Improve classification accuracy using ML-based techniques.
 
