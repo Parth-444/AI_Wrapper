@@ -45,7 +45,7 @@ response = wrapper.get_response(prompt)
 print(response)
 
 ## 🏗️ Project Structure
-
+```
 llm-wrapper/
 │── llm_wrapper/
 │   │── __init__.py       # Package initialization
@@ -54,7 +54,7 @@ llm-wrapper/
 │── main.py               # Example script for testing the wrapper
 │── requirements.txt      # Python dependencies
 │── README.md             # Project documentation
-
+```
 ## 🔥 Future Enhancements
 
 Add support for more LLMs (GPT-4, Claude, Mistral, etc.).
