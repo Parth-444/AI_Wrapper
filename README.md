@@ -36,14 +36,14 @@ export TOGETHER_API_KEY="your_together_api_key"
 ## 🚀 Usage
 
 Import and use the LLM Wrapper in your Python script:
-
+```
 from llm_wrapper import LLMWrapper
 
 wrapper = LLMWrapper()
 prompt = "Explain the concept of black holes."
 response = wrapper.get_response(prompt)
 print(response)
-
+```
 ## 🏗️ Project Structure
 ```
 llm-wrapper/
