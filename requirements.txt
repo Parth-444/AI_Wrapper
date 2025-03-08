@@ -1,3 +1,6 @@
 google.generativeai
-google
-together
+google~=3.0.0
+together~=1.4.1
+Flask~=3.1.0
+protobuf~=5.29.3
+flask
